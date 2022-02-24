@@ -1,0 +1,5 @@
+boto3
+pathlib_mate
+smart_open
+s3pathlib
+awswrangler
